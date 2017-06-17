@@ -8,4 +8,6 @@ In general:
 2. Do not add spaces anywhere except to separate a first and last name.
 3. If you do not want to use a certain criteria, input "NA" and it will not be used as a filter. 
 4. Capitalize names and genres (ex. "Joss Whedon" OR "Action,Drama")
+
+
 Enjoy and happy Fathers' Day!
